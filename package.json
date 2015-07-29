@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-vs-mongodb",
+  "version": "1.0.0",
+  "description": "Connecting and Working with MongoDB with Node &amp; Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeofnodejs/nodejs-vs-mongodb.git"
+  },
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeofnodejs/nodejs-vs-mongodb/issues"
+  },
+  "homepage": "https://github.com/codeofnodejs/nodejs-vs-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.0.39"
+  }
+}
