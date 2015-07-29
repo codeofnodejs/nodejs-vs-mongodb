@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/codeofnodejs/nodejs-vs-mongodb#readme",
   "dependencies": {
+    "express": "^4.13.1",
+    "jade": "^1.11.0",
     "mongodb": "^2.0.39"
   }
 }
